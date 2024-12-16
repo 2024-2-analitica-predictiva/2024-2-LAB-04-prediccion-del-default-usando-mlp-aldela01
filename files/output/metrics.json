@@ -1,0 +1,4 @@
+{"type":"metrics","dataset":"train","precision":0.6991806477,"balanced_accuracy":0.6658743918,"recall":0.3792592593,"f1_score":0.4917672887,"true_0":null,"true_1":null}
+{"type":"metrics","dataset":"test","precision":0.68,"balanced_accuracy":0.6674450258,"recall":0.3835257083,"f1_score":0.4904394498,"true_0":null,"true_1":null}
+{"type":"cm_matrix","dataset":"train","precision":null,"balanced_accuracy":null,"recall":null,"f1_score":null,"true_0":{"predicted_0":15457,"predicted_1":771},"true_1":{"predicted_0":2933,"predicted_1":1792}}
+{"type":"cm_matrix","dataset":"test","precision":null,"balanced_accuracy":null,"recall":null,"f1_score":null,"true_0":{"predicted_0":6729,"predicted_1":344},"true_1":{"predicted_0":1175,"predicted_1":731}}
